@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 119
+exclude = .git, __pycache__, .venv, poetry.lock, poetry.toml, pyproject.toml,
+ pytest.ini,README.md, .gitignore, .coverage, .flake8, htmlcov
